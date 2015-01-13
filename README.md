@@ -1,4 +1,4 @@
 node-hello-world
 ================
 
-node hello world example
+the best node hello world example
