@@ -1,4 +1,4 @@
-node-hello-world-will-test-from-h
+node-hello
 ================
 
 the  node hello world example
