@@ -7,7 +7,7 @@ http.createServer(function (req, res) {
     'Content-Type': 'text/plain',
     'Access-Control-Allow-Origin': '*'
   });
-  res.end('Hello World!');
+  res.end('Hello YOFA!');
 }).listen(process.env.PORT);
 console.log('Server running at http://127.0.0.1:'+process.env.PORT+'/');
 
