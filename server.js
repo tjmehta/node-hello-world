@@ -1,6 +1,6 @@
 var http = require('http');
 if (!process.env.PORT) {
-  throw new Error('process.env.PORT is required>>!');
+  throw new Error('process.env.PORT is required>>2!');
 }
 http.createServer(function (req, res) {
   res.writeHead(200, {
